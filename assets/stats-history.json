@@ -1,69 +1,6 @@
 {
   "points": [
     {
-      "timestamp": "2026-08-17T07:25:20.051Z",
-      "totalDownloads": 5399,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T09:02:34.574Z",
-      "totalDownloads": 5401,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T10:00:07.147Z",
-      "totalDownloads": 5402,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T10:50:16.967Z",
-      "totalDownloads": 5405,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T11:43:56.352Z",
-      "totalDownloads": 5407,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T13:09:28.327Z",
-      "totalDownloads": 5408,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-17T13:55:19.057Z",
-      "totalDownloads": 0,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
       "timestamp": "2026-08-17T14:47:21.671Z",
       "totalDownloads": 0,
       "stars": 28,
@@ -3603,6 +3540,15 @@
     {
       "timestamp": "2026-10-01T07:13:15.354Z",
       "totalDownloads": 8013,
+      "stars": 29,
+      "views14d": 671,
+      "viewUniques14d": 158,
+      "clones14d": 509,
+      "cloneUniques14d": 71
+    },
+    {
+      "timestamp": "2026-10-01T14:33:42.237Z",
+      "totalDownloads": 8026,
       "stars": 29,
       "views14d": 671,
       "viewUniques14d": 158,
