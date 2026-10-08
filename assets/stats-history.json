@@ -1,78 +1,6 @@
 {
   "points": [
     {
-      "timestamp": "2026-08-24T09:06:59.917Z",
-      "totalDownloads": 5769,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T10:06:04.003Z",
-      "totalDownloads": 5774,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T10:56:00.058Z",
-      "totalDownloads": 5776,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T11:46:17.980Z",
-      "totalDownloads": 5783,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T13:16:36.396Z",
-      "totalDownloads": 5787,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T14:07:07.947Z",
-      "totalDownloads": 5789,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T15:03:06.268Z",
-      "totalDownloads": 5789,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
-      "timestamp": "2026-08-24T15:57:53.204Z",
-      "totalDownloads": 5799,
-      "stars": 28,
-      "views14d": 671,
-      "viewUniques14d": 158,
-      "clones14d": 509,
-      "cloneUniques14d": 71
-    },
-    {
       "timestamp": "2026-08-24T16:58:18.946Z",
       "totalDownloads": 5801,
       "stars": 28,
@@ -2451,6 +2379,15 @@
     {
       "timestamp": "2026-10-08T09:06:20.830Z",
       "totalDownloads": 8403,
+      "stars": 31,
+      "views14d": 671,
+      "viewUniques14d": 158,
+      "clones14d": 509,
+      "cloneUniques14d": 71
+    },
+    {
+      "timestamp": "2026-10-08T16:35:14.172Z",
+      "totalDownloads": 8410,
       "stars": 31,
       "views14d": 671,
       "viewUniques14d": 158,
