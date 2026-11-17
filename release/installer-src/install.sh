@@ -242,7 +242,7 @@ fi
 SUDOERS_FILE="/etc/sudoers.d/zz-hiddify"
 cat > "$SUDOERS_FILE" <<EOF
 deck ALL=(ALL) NOPASSWD: $INSTALL_DIR/HiddifyCli *
-deck ALL=(ALL) NOPASSWD: /usr/bin/ip *
+deck ALL=(root) NOPASSWD: /usr/bin/ip link delete tun0
 deck ALL=(ALL) NOPASSWD: /usr/bin/fuser *
 EOF
 chmod 0440 "$SUDOERS_FILE"
