@@ -2382,7 +2382,7 @@ WantedBy=default.target
             sudoers_path = "/etc/sudoers.d/zz-hiddify"
             with open(sudoers_path, "w") as f:
                 f.write(f"deck ALL=(ALL) NOPASSWD: {CLI_PATH} *\n")
-                f.write("deck ALL=(ALL) NOPASSWD: /usr/bin/ip *\n")
+                f.write("deck ALL=(root) NOPASSWD: /usr/bin/ip link delete tun0\n")
                 f.write("deck ALL=(ALL) NOPASSWD: /usr/bin/fuser *\n")
             os.chmod(sudoers_path, 0o440)
         except Exception as e:
